@@ -36,3 +36,4 @@ Contact
 Manage cookies
 Do not share my personal information
 >https://github.com/ivanm696/code.visualstudio
+>vscode://settings/chat.viewSessions.enabled
